@@ -1,0 +1,11 @@
+.column {
+  width: 30%;
+  margin: auto;
+  float: left;
+}
+.bold {
+  text-align: center;
+  color: white;
+  background: black;
+  text-decoration: wavy;
+}
