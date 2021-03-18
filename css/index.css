@@ -3,9 +3,25 @@
   margin: auto;
   float: left;
 }
+ul.font {
+  font-family: Helvetica;
+}
+ol.bold {
+  font-size: larger;
+  font-family: cursive;
+}
 .bold {
   text-align: center;
   color: white;
   background: black;
   text-decoration: wavy;
+}
+.box1 {
+  width:90%;
+  border-color: lime;
+  border-width: 3px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+
 }
