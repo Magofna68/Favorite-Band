@@ -1,6 +1,7 @@
 .column {
   width: 30%;
   margin: auto;
+  padding-left: 10px;
   float: left;
 }
 ul.font {
@@ -17,11 +18,13 @@ ol.bold {
   text-decoration: wavy;
 }
 .box1 {
-  width:90%;
-  border-color: lime;
-  border-width: 3px;
-  margin-top: 20px;
-  margin-bottom: 20px;
+  width:100%;
+  height: auto;
+  border-style: solid;
+  border-color: #AEB4A9;
+  margin: center;
+  margin-top: 20%;
+  padding: 100px;
   box-sizing: border-box;
-
+  background: #C37D92;
 }
